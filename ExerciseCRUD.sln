@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseCRUD", "ExerciseCRUD.csproj", "{7697B83C-AD3F-4333-A38E-14DC70F346CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CURDFormMenu", "..\CURDFormMenu\CURDFormMenu.csproj", "{5E9C7568-7C0E-448D-9CF6-8DA304962128}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "login", "..\login\login.csproj", "{C81C28D9-58E9-4CA9-AF4B-E3D6DB9F7DA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7697B83C-AD3F-4333-A38E-14DC70F346CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7697B83C-AD3F-4333-A38E-14DC70F346CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7697B83C-AD3F-4333-A38E-14DC70F346CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7697B83C-AD3F-4333-A38E-14DC70F346CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E9C7568-7C0E-448D-9CF6-8DA304962128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E9C7568-7C0E-448D-9CF6-8DA304962128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E9C7568-7C0E-448D-9CF6-8DA304962128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E9C7568-7C0E-448D-9CF6-8DA304962128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C81C28D9-58E9-4CA9-AF4B-E3D6DB9F7DA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C81C28D9-58E9-4CA9-AF4B-E3D6DB9F7DA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C81C28D9-58E9-4CA9-AF4B-E3D6DB9F7DA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C81C28D9-58E9-4CA9-AF4B-E3D6DB9F7DA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52B1A8EF-4C72-4F96-BED3-1BC4B0BCA772}
+	EndGlobalSection
+EndGlobal
